@@ -1,0 +1,75 @@
+body {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+h1 {
+    text-align: left;
+}
+
+
+.strawberry {
+    
+   width: 20%;
+    
+}
+
+h2 {
+    text-align: left;
+    margin-bottom: 20px
+    ;
+
+}
+
+p {
+    text-align: left;
+    line-height: 1;
+   
+}
+
+
+.prep {
+   line-height: 1;
+}
+
+h3 {
+  text-align: left;
+}
+
+.mix {
+    width: 20%;
+ 
+}
+    
+.bar {
+    width: 20%;
+    
+}
+
+
+.instructions > .step1 {
+    padding-bottom: 12px;
+}
+
+.instructions > .step2 {
+    padding-bottom: 12px;
+  
+}
+
+.instructions > .step3 {
+    padding-bottom: 12px;
+
+}
+
+.berries {
+    width: 20%;
+}
+
+.pour {
+    width: 20%;
+    
+}
