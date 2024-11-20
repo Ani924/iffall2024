@@ -1,0 +1,210 @@
+
+body {
+cursor: pointer;
+background-color: rgb(255, 255, 255);
+align-items: center;
+margin: 0;
+padding: 0;
+}
+
+
+
+
+
+.navbar {
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    display: flex;
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+.navbar a {
+    float: left;
+    color: #000000;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 18px;
+    display: flex;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+
+
+
+.topphoto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    overflow-x: hidden;
+}
+
+.topphoto img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+.hometextcontainer {
+    margin: 150px auto;
+    width: 50%;
+   display: block;
+   max-width: 100%;
+   height: auto;
+    
+    
+}
+
+
+.hometextcontainer img {
+float: left;
+margin-right: 25px;
+width: 350px;
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+
+
+.historytextcontainer {
+    margin: 150px auto;
+    width: 50%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+.historytextcontainer img {
+float: right;
+margin-left: 25px;
+width: 350px;
+display: block;
+max-width: 100%;
+height: auto;
+
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+
+.leadershiptextcontainer {
+    margin: 150px auto;
+    width: 50%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+.leadershiptextcontainer img {
+float: left;
+margin-right: 25px;
+width: 350px;
+display: block;
+max-width: 100%;
+height: auto;
+
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+.impacttextcontainer {
+    margin: 150px auto;
+    width: 50%;
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+.impacttextcontainer img {
+float: right;
+margin-left: 25px;
+width: 350px;
+display: block;
+max-width: 100%;
+height: auto;
+
+}
+
+h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    
+
+}
+
+a {
+    font-family: "Roboto", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    color: #000000;
+}
